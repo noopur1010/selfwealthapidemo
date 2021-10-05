@@ -216,3 +216,6 @@ packages/*
 /SelfWealthApiDemo/obj/Debug/netcoreapp3.1/SelfWealthApiDemo.csproj.FileListAbsolute.txt
 /SelfWealthApiDemo.Test/obj/Debug/netcoreapp3.1/SelfWealthApiDemo.Test.csproj.AssemblyReference.cache
 /SelfWealthApiDemo/.vs/SelfWealthApiDemo/v16/.suo
+/SelfWealthApiDemo.Test/obj/Debug/netcoreapp3.1/SelfWealthApiDemo.Test.csproj.AssemblyReference.cache
+/SelfWealthApiDemo/.vs/SelfWealthApiDemo/config/applicationhost.config
+/SelfWealthApiDemo/.vs/SelfWealthApiDemo/v16/.suo
