@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\WorkSpace\\selfwealth\\SelfWealthApiDemo.Test\\SelfWealthApiDemo.Test.csproj": {}
+    "C:\\WorkSpace\\selfwealth\\New folder\\SelfWealthApiDemo\\SelfWealthApiDemo.Test\\SelfWealthApiDemo.Test.csproj": {}
   },
   "projects": {
-    "C:\\WorkSpace\\selfwealth\\SelfWealthApiDemo.Test\\SelfWealthApiDemo.Test.csproj": {
+    "C:\\WorkSpace\\selfwealth\\New folder\\SelfWealthApiDemo\\SelfWealthApiDemo.Test\\SelfWealthApiDemo.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\WorkSpace\\selfwealth\\SelfWealthApiDemo.Test\\SelfWealthApiDemo.Test.csproj",
+        "projectUniqueName": "C:\\WorkSpace\\selfwealth\\New folder\\SelfWealthApiDemo\\SelfWealthApiDemo.Test\\SelfWealthApiDemo.Test.csproj",
         "projectName": "SelfWealthApiDemo.Test",
-        "projectPath": "C:\\WorkSpace\\selfwealth\\SelfWealthApiDemo.Test\\SelfWealthApiDemo.Test.csproj",
+        "projectPath": "C:\\WorkSpace\\selfwealth\\New folder\\SelfWealthApiDemo\\SelfWealthApiDemo.Test\\SelfWealthApiDemo.Test.csproj",
         "packagesPath": "C:\\Users\\nupur\\.nuget\\packages\\",
-        "outputPath": "C:\\WorkSpace\\selfwealth\\SelfWealthApiDemo.Test\\obj\\",
+        "outputPath": "C:\\WorkSpace\\selfwealth\\New folder\\SelfWealthApiDemo\\SelfWealthApiDemo.Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages",
@@ -38,8 +38,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\WorkSpace\\selfwealth\\SelfWealthApiDemo\\SelfWealthApiDemo.csproj": {
-                "projectPath": "C:\\WorkSpace\\selfwealth\\SelfWealthApiDemo\\SelfWealthApiDemo.csproj"
+              "C:\\WorkSpace\\selfwealth\\New folder\\SelfWealthApiDemo\\SelfWealthApiDemo\\SelfWealthApiDemo.csproj": {
+                "projectPath": "C:\\WorkSpace\\selfwealth\\New folder\\SelfWealthApiDemo\\SelfWealthApiDemo\\SelfWealthApiDemo.csproj"
               }
             }
           }
@@ -98,14 +98,14 @@
         }
       }
     },
-    "C:\\WorkSpace\\selfwealth\\SelfWealthApiDemo\\SelfWealthApiDemo.csproj": {
+    "C:\\WorkSpace\\selfwealth\\New folder\\SelfWealthApiDemo\\SelfWealthApiDemo\\SelfWealthApiDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\WorkSpace\\selfwealth\\SelfWealthApiDemo\\SelfWealthApiDemo.csproj",
+        "projectUniqueName": "C:\\WorkSpace\\selfwealth\\New folder\\SelfWealthApiDemo\\SelfWealthApiDemo\\SelfWealthApiDemo.csproj",
         "projectName": "SelfWealthApiDemo",
-        "projectPath": "C:\\WorkSpace\\selfwealth\\SelfWealthApiDemo\\SelfWealthApiDemo.csproj",
+        "projectPath": "C:\\WorkSpace\\selfwealth\\New folder\\SelfWealthApiDemo\\SelfWealthApiDemo\\SelfWealthApiDemo.csproj",
         "packagesPath": "C:\\Users\\nupur\\.nuget\\packages\\",
-        "outputPath": "C:\\WorkSpace\\selfwealth\\SelfWealthApiDemo\\obj\\",
+        "outputPath": "C:\\WorkSpace\\selfwealth\\New folder\\SelfWealthApiDemo\\SelfWealthApiDemo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages",

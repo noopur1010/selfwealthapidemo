@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FGKhSOXIBmFskPL8XRqGX+0MFhq14wO1Kpj/KtPkHHac/YLXIB0TdI+bCplV4ZIJjCyBqMMe8dKpCGeoejKjSQ==",
+  "dgSpecHash": "/LmyZi7o6X1mqUxetX7o4PjMs131cCC7Uf9SZu9G+Q1eS8GoauGZs17R81WkCZBN0GAGlglhtUFnK2KRAFTqOA==",
   "success": true,
-  "projectFilePath": "C:\\WorkSpace\\selfwealth\\SelfWealthApiDemo\\SelfWealthApiDemo.csproj",
+  "projectFilePath": "C:\\WorkSpace\\selfwealth\\New folder\\SelfWealthApiDemo\\SelfWealthApiDemo\\SelfWealthApiDemo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nupur\\.nuget\\packages\\microsoft.csharp\\4.4.1\\microsoft.csharp.4.4.1.nupkg.sha512",
     "C:\\Users\\nupur\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",

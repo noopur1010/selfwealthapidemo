@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "L8RHXhBwmvWS68xl3XGXTzoBm62GwnlXFrF2C0hLUUZN/fFKiC9G9IV9WqkRL8RNFNfGXMkK/WPA1hq0dVo/8g==",
+  "dgSpecHash": "LBRFfYbeQVbwGtWUyyMfn3GuMo+EYZS/97wdpV0QcKx6UyIsmlw1HjXL/6ng3+1lMAQpPO6Rs+qmEyHdVdKq9Q==",
   "success": true,
-  "projectFilePath": "C:\\WorkSpace\\selfwealth\\SelfWealthApiDemo.Test\\SelfWealthApiDemo.Test.csproj",
+  "projectFilePath": "C:\\WorkSpace\\selfwealth\\New folder\\SelfWealthApiDemo\\SelfWealthApiDemo.Test\\SelfWealthApiDemo.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nupur\\.nuget\\packages\\coverlet.collector\\3.1.0\\coverlet.collector.3.1.0.nupkg.sha512",
     "C:\\Users\\nupur\\.nuget\\packages\\microsoft.aspnetcore.testhost\\3.1.8\\microsoft.aspnetcore.testhost.3.1.8.nupkg.sha512",
