@@ -142,7 +142,6 @@ C:\WorkSpace\selfwealth\SelfWealthApiDemo\SelfWealthApiDemo\bin\Debug\netcoreapp
 C:\WorkSpace\selfwealth\SelfWealthApiDemo\SelfWealthApiDemo\bin\Debug\netcoreapp3.1\YamlDotNet.dll
 C:\WorkSpace\selfwealth\SelfWealthApiDemo\SelfWealthApiDemo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
 C:\WorkSpace\selfwealth\SelfWealthApiDemo\SelfWealthApiDemo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\WorkSpace\selfwealth\SelfWealthApiDemo\SelfWealthApiDemo\obj\Debug\netcoreapp3.1\SelfWealthApiDemo.csproj.AssemblyReference.cache
 C:\WorkSpace\selfwealth\SelfWealthApiDemo\SelfWealthApiDemo\obj\Debug\netcoreapp3.1\SelfWealthApiDemo.GeneratedMSBuildEditorConfig.editorconfig
 C:\WorkSpace\selfwealth\SelfWealthApiDemo\SelfWealthApiDemo\obj\Debug\netcoreapp3.1\SelfWealthApiDemo.AssemblyInfoInputs.cache
 C:\WorkSpace\selfwealth\SelfWealthApiDemo\SelfWealthApiDemo\obj\Debug\netcoreapp3.1\SelfWealthApiDemo.AssemblyInfo.cs

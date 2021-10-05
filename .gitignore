@@ -209,3 +209,8 @@ packages/*
 /SelfWealthApiDemo/obj/project.assets.json
 /SelfWealthApiDemo/obj/project.nuget.cache
 /SelfWealthApiDemo/obj/SelfWealthApiDemo.csproj.nuget.dgspec.json
+/SelfWealthApiDemo.Test/obj/Debug/netcoreapp3.1/SelfWealthApiDemo.Test.csproj.AssemblyReference.cache
+/SelfWealthApiDemo.Test/obj/Debug/netcoreapp3.1/SelfWealthApiDemo.Test.csproj.FileListAbsolute.txt
+/SelfWealthApiDemo/.vs/SelfWealthApiDemo/v16/.suo
+/SelfWealthApiDemo/obj/Debug/netcoreapp3.1/SelfWealthApiDemo.csproj.AssemblyReference.cache
+/SelfWealthApiDemo/obj/Debug/netcoreapp3.1/SelfWealthApiDemo.csproj.FileListAbsolute.txt
