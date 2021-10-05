@@ -1,5 +1,6 @@
 # selfwealthapidemo
 selfwealth api demo
+
 **C# task:**
 * Create a net core Webapi project that has an API endpoint called retrieveUsers. This endpoint takes:
     * List<string> usernames: This is an list of usernames that will be used to look up basic information from GitHub's public API. Only users in this list should be retrieved from Github.
